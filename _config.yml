@@ -34,7 +34,7 @@ cookbook:
     client_id: 9756f1c332911548f818
     client_secret: 58f8229fd10d2614488fd7798b737eddbd8f0b68
     github_owner: catlib
-    github_repository: ilruntime-zh .io
+    github_repository: ilruntime-zh.io
     cross_server: https://31225080.ap-southeast-1.fc.aliyuncs.com/2016-08-15/proxy/gitment/gitment-cross/
     per_page: 30
     maintainer:

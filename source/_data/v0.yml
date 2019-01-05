@@ -15,6 +15,14 @@ navigation:
     text: 介绍          
     href: index.html
   -
+    text: 使用
+  -
+    text: 安装
+    href: usage/setup.html
+  -
+    text: 代码加载器
+    href: usage/code-loader.html
+  -
     divider : true
   -
     text: Power by CatLib
