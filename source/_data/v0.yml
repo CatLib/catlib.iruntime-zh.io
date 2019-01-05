@@ -3,7 +3,7 @@ navigation:
     levels:
       -
         text : CatLib
-        href : /
+        href : https://catlib.io
       -
         text: ILRuntime
         href : index.html
