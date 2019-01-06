@@ -17,8 +17,6 @@ title: 介绍
 ## 学习路线图
 
 - [安装](usage/setup.html)CatLib For ILRuntime到您的项目。
-- 通过[代码加载器](usage/code-loader.html)加载您的热更新代码。
-- 使用[服务重绑定](service-rebind.html)修复您的主工程问题代码。
 
 ## 技术支持
 
