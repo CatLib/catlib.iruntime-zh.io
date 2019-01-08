@@ -16,7 +16,7 @@ title: 介绍
 
 ## 示例
 
-- (demo-how-to-use-catlib-for-ilruntime)[https://github.com/CatLib/demo-how-to-use-catlib-for-ilruntime]
+- [demo-how-to-use-catlib-for-ilruntime](https://github.com/CatLib/demo-how-to-use-catlib-for-ilruntime)
 
 ## 学习路线图
 
