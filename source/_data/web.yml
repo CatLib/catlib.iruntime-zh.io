@@ -10,6 +10,11 @@ navigation:
       -
         text: 核心库
         href: https://catlib.io/lasted
+  -
+    type: icon
+    fontawesome: github
+    href: https://github.com/CatLib/CatLib.ILRuntime
+    mobile: true
 
 tool:
   editor: 
