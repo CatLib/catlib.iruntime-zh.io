@@ -5,6 +5,9 @@ navigation:
         text : CatLib
         href : https://catlib.io
       -
+        text : 核心库
+        href : https://catlib.io/lasted
+      -
         text: ILRuntime
         href : index.html
   -
