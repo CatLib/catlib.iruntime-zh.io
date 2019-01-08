@@ -2,6 +2,14 @@ navigation:
   -
     type: versions
     mobile: true
+  - 
+    type: menu
+    text: 组件库
+    mobile: true
+    list:
+      -
+        text: 核心库
+        href: https://catlib.io/lasted
 
 tool:
   editor: 
