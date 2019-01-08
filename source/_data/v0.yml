@@ -8,7 +8,7 @@ navigation:
         text : 核心库
         href : https://catlib.io/lasted
       -
-        text: ILRuntime
+        text: ILRuntime支持库
         href : index.html
   -
     divider: true
