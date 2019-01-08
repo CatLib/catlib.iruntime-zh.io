@@ -14,6 +14,10 @@ title: 介绍
 - `混合调用` : 在ILRuntime热更新项目和主工程中的调用是一致的，复杂的转换操作都将被框架层隐藏。
 - `依赖注入` : 允许热更新代码通过依赖注入的方式获取主工程或热更新代码的服务对象。
 
+## 示例
+
+- (demo-how-to-use-catlib-for-ilruntime)[https://github.com/CatLib/demo-how-to-use-catlib-for-ilruntime]
+
 ## 学习路线图
 
 - [安装](usage/setup.html)CatLib For ILRuntime到您的项目。
