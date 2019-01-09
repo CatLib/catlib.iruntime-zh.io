@@ -24,10 +24,11 @@ ignore:
   - '**/node_modules/**/*node_modules'
 
 cookbook:
+  favicon: images/favicon.ico
   tag:
     anchor:
       default: core
-      core: https://github.com/CatLib/ilruntime-zh.io
+      core: https://github.com/CatLib/Core
   gitment:
     enable: true
     id: ilrt-zh
