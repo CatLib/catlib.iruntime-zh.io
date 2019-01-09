@@ -24,7 +24,7 @@ ignore:
   - '**/node_modules/**/*node_modules'
 
 cookbook:
-  favicon: images/favicon.ico
+  favicon: favicon.ico
   tag:
     anchor:
       default: core
