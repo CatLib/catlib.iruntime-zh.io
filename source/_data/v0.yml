@@ -23,6 +23,14 @@ navigation:
     text: 安装
     href: usage/setup.html
   -
+    text: 和项目关联
+    href: usage/link-project.html
+  -
+    text: API
+  -
+    text: AppDomain
+    href: api/app-domain.html
+  -
     divider : true
   -
     text: Power by CatLib
