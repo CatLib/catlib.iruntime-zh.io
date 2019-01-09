@@ -20,8 +20,8 @@ title: 介绍
 
 ## 学习路线图
 
-- [安装](usage/setup.html)CatLib For ILRuntime到您的项目。
-- [关联](usage/link-project.html)您的项目。
+- [安装](usage/setup.html) CatLib For ILRuntime到您的项目。
+- [关联](usage/link-project.html) 您的项目。
 
 ## 技术支持
 
