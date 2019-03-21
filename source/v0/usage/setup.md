@@ -12,7 +12,7 @@ title: 安装
 
 注册`服务提供者`到您的服务提供者列表。
 
-- `Game/Config/Providers.cs`
+- `Demo/Runtime/Config/Providers.cs`
 
 ```csharp
 new ProviderILRuntime();
@@ -22,7 +22,7 @@ new ProviderILRuntime();
 
 使用`ILRuntimeApplication`来替换`UnityApplication`应用程序。您需要通过覆写`CreateApplication`方法来实现。
 
-- `Game/Main.cs`
+- `Demo/Runtime/Main.cs`
 
 ```csharp
 protected override Application CreateApplication(DebugLevels debugLevel)
